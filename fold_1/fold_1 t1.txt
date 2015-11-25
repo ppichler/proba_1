@@ -1,3 +1,1 @@
-folder 1 fájl 1 alapsor
-
-
+folder 1 / fájl 1: alapsor

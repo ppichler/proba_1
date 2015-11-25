@@ -1,1 +1,1 @@
-folder 12 fájl 1 alapsor
+folder 12 / fájl 1: alapsor
