@@ -1,2 +1,2 @@
-fo_1 alapsor
+fõ 1: alapsor
 valami tartalom is kellene ide
